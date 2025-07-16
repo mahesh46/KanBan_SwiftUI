@@ -1,4 +1,4 @@
-# KanBan_SwiftUI
+# Kanban_SwiftUI
 Kanban app, using core data. with Drag/Drop cards
 
 
