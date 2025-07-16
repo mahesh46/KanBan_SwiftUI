@@ -1,2 +1,2 @@
 # KanBan_SwiftUI
-Kanban app, using core data
+Kanban app, using core data.
